@@ -1,15 +1,15 @@
 {
-    "broadArea": {
-        "name": "Biotechnology and Biomedical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
-    },
-    "lab": "Bio-Medical Instrumentation Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IITR",
-    "baseUrl": "bmi-iitr.vlabs.ac.in",
-    "introduction": "The branch of biomedical instrumentation concerned with the study and functions of Electrocardiogram (ECG), Electroencephalogram (EEG) and Blood Pressure and monitoring involving in the analysis of EEG, ECG and blood pressure.",
-    "experiments": [
+  "broadArea": {
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+  },
+  "lab": "Bio-Medical Instrumentation Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IITR",
+  "baseUrl": "bmi-iitr.vlabs.ac.in",
+  "introduction": "The branch of biomedical instrumentation concerned with the study and functions of Electrocardiogram (ECG), Electroencephalogram (EEG) and Blood Pressure and monitoring involving in the analysis of EEG, ECG and blood pressure.",
+  "experiments": [
     {
       "name": "Study of Various Leads for Monitoring of Electrocardiogram (ECG)",
       "short-name": "various-leads-ecg",
@@ -45,14 +45,23 @@
       "tag": "v1.0.0",
       "deploy": true
     }
-                   ],
-    "targetAudience": {
-        "UG": ["B.Tech./ B.E in Biotechnology"],
-        "PG": ["PG/PhD/Research Scholars in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
-    },
-    "objective": "1. To study Various Leads for Monitoring of Electrocardiogram (ECG).</br>2. To monitor Electrocardiogram (ECG) for bipolar limb leads L1, L2 and L3.</br>3. To monitor Electrocardiogram (ECG) for augmented leads aVL, aVF and aVR.</br>4. To monitor Electrocardiogram (ECG) for chest leads V1-V6.</br>5. To study various leads and electrode position for Electroencephalogram (EEG).</br>6. To study of various leads present in different lobes.</br>7. To monitor Electroencephalogram (EEG) signal for different lobes.</br>8. To monitor Blood Pressure.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["UG in Biotechnology/Biomedical Engineering/Biomedical Science","PG in Biotechnology/Biomedical Engineering//Biomedical Science","B.Tech./ B.E in Biotechnology/Biomedical Engineering"]
-    }
+  ],
+  "targetAudience": {
+    "UG": ["B.Tech./ B.E in Biotechnology"],
+    "PG": [
+      "PG/PhD/Research Scholars in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
+    ]
+  },
+  "objective": "1. To study Various Leads for Monitoring of Electrocardiogram (ECG).</br>2. To monitor Electrocardiogram (ECG) for bipolar limb leads L1, L2 and L3.</br>3. To monitor Electrocardiogram (ECG) for augmented leads aVL, aVF and aVR.</br>4. To monitor Electrocardiogram (ECG) for chest leads V1-V6.</br>5. To study various leads and electrode position for Electroencephalogram (EEG).</br>6. To study of various leads present in different lobes.</br>7. To monitor Electroencephalogram (EEG) signal for different lobes.</br>8. To monitor Blood Pressure.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "UG in Biotechnology/Biomedical Engineering/Biomedical Science",
+      "PG in Biotechnology/Biomedical Engineering//Biomedical Science",
+      "B.Tech./ B.E in Biotechnology/Biomedical Engineering"
+    ]
+  },
+  "exp_name": "Study of various leads and electrode position for Electroencephalogram (EEG)",
+  "exp_short_name": "electrode-position-electroencephalogram",
+  "version": "v0.1.0"
 }
