@@ -44,6 +44,20 @@
       "repo": "https://github.com/virtual-labs/exp-electrode-position-electroencephalogram-iitr",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "Study of various leads present in different lobes",
+      "short-name": "various-leads-different-lobes",
+      "repo": "https://github.com/virtual-labs/exp-various-leads-different-lobes-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
+      "short-name": "eeg-signal-different-lobes",
+      "repo": "https://github.com/virtual-labs/exp-eeg-signal-different-lobes-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
@@ -61,7 +75,7 @@
       "B.Tech./ B.E in Biotechnology/Biomedical Engineering"
     ]
   },
-  "exp_name": "Study of various leads and electrode position for Electroencephalogram (EEG)",
-  "exp_short_name": "electrode-position-electroencephalogram",
-  "version": "v0.1.0"
+  "exp_name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
+  "exp_short_name": "eeg-signal-different-lobes",
+  "version": "v0.2.0"
 }
