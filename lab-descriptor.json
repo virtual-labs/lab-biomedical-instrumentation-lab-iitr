@@ -15,20 +15,20 @@
       "short-name": "various-leads-ecg",
       "repo": "https://github.com/virtual-labs/exp-various-leads-ecg-iitr",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Monitoring of Electrocardiogram (ECG) for bipolar limb leads L1, L2 and L3",
       "short-name": "bipolar-limb-leads",
       "repo": "https://github.com/virtual-labs/exp-bipolar-limb-leads-iitr",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Monitoring of Electrocardiogram (ECG) for augmented leads aVL, aVF and aVR",
       "short-name": "augmented-leads",
       "repo": "https://github.com/virtual-labs/exp-augmented-leads-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -36,28 +36,28 @@
       "short-name": "chest-leads",
       "repo": "https://github.com/virtual-labs/exp-chest-leads-iitr",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Study of various leads and electrode position for Electroencephalogram (EEG)",
       "short-name": "electrode-position-electroencephalogram",
       "repo": "https://github.com/virtual-labs/exp-electrode-position-electroencephalogram-iitr",
       "tag": "v1.0.0",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Study of various leads present in different lobes",
       "short-name": "various-leads-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-various-leads-different-lobes-iitr",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
       "short-name": "eeg-signal-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-eeg-signal-different-lobes-iitr",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     }
   ],
   "targetAudience": {
