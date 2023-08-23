@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
   },
   "lab": "Bio-Medical Instrumentation Lab",
+  "lab_display_name": "Bio-Medical Instrumentation Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IITR",
