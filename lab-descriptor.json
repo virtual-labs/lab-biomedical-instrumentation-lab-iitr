@@ -51,14 +51,14 @@
       "short-name": "various-leads-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-various-leads-different-lobes-iitr",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
       "short-name": "eeg-signal-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-eeg-signal-different-lobes-iitr",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     }
   ],
   "targetAudience": {
