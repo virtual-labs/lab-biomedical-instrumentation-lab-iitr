@@ -43,21 +43,21 @@
       "name": "Study of various leads and electrode position for Electroencephalogram (EEG)",
       "short-name": "electrode-position-electroencephalogram",
       "repo": "https://github.com/virtual-labs/exp-electrode-position-electroencephalogram-iitr",
-      "tag": "v1.0.0",
-      "deploy": false
+      "tag": "v1.0.1",
+      "deploy": true
     },
     {
       "name": "Study of various leads present in different lobes",
       "short-name": "various-leads-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-various-leads-different-lobes-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
       "short-name": "eeg-signal-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-eeg-signal-different-lobes-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],
@@ -78,5 +78,5 @@
   },
   "exp_name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
   "exp_short_name": "eeg-signal-different-lobes",
-  "version": "v0.7.0"
+  "version": "v0.8.0"
 }
