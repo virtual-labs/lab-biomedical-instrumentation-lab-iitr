@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code":"BIO"
   },
   "lab": "Bio-Medical Instrumentation Lab",
   "lab_display_name": "Bio-Medical Instrumentation Lab",
@@ -75,8 +76,5 @@
       "PG in Biotechnology/Biomedical Engineering//Biomedical Science",
       "B.Tech./ B.E in Biotechnology/Biomedical Engineering"
     ]
-  },
-  "exp_name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
-  "exp_short_name": "eeg-signal-different-lobes",
-  "version": "v0.8.0"
+  }
 }
