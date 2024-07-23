@@ -16,29 +16,29 @@
       "name": "Study of Various Leads for Monitoring of Electrocardiogram (ECG)",
       "short-name": "various-leads-ecg",
       "repo": "https://github.com/virtual-labs/exp-various-leads-ecg-iitr",
-      "tag": "v1.0.0",
-      "deploy": false
+      "tag": "v1.0.1",
+      "deploy": true
     },
     {
       "name": "Monitoring of Electrocardiogram (ECG) for bipolar limb leads L1, L2 and L3",
       "short-name": "bipolar-limb-leads",
       "repo": "https://github.com/virtual-labs/exp-bipolar-limb-leads-iitr",
       "tag": "v1.0.0",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Monitoring of Electrocardiogram (ECG) for augmented leads aVL, aVF and aVR",
       "short-name": "augmented-leads",
       "repo": "https://github.com/virtual-labs/exp-augmented-leads-iitr",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Monitoring of Electrocardiogram (ECG) for chest leads V1-V6",
       "short-name": "chest-leads",
       "repo": "https://github.com/virtual-labs/exp-chest-leads-iitr",
       "tag": "v1.0.0",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Study of various leads and electrode position for Electroencephalogram (EEG)",
