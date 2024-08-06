@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
     "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
-    "code":"BIO"
+    "code": "BIO"
   },
   "lab": "Bio-Medical Instrumentation Lab",
   "lab_display_name": "Bio-Medical Instrumentation Lab",
@@ -58,12 +58,14 @@
       "name": "Monitoring of Electroencephalogram (EEG) signal for different lobes",
       "short-name": "eeg-signal-different-lobes",
       "repo": "https://github.com/virtual-labs/exp-eeg-signal-different-lobes-iitr",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": ["B.Tech./ B.E in Biotechnology"],
+    "UG": [
+      "B.Tech./ B.E in Biotechnology"
+    ],
     "PG": [
       "PG/PhD/Research Scholars in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
     ]
